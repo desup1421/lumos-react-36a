@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Snapshot Testing (jika tidak ingin diupload)
+__snapshots__/
+
+# System files
+.DS_Store
+Thumbs.db
